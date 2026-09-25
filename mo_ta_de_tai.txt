@@ -1,0 +1,23 @@
+Cửa hàng cá cảnh của tôi mở được 3 năm, diện tích không lớn nhưng có khoảng hơn 150 dòng cá 
+khác nhau: cá thủy sinh (Neon, Sóc Đầu Đỏ), cá La Hán, cá Betta, cá Koi, cá bảy màu (Guppy)... 
+Nguồn cá được nhập về từ nhiều trại giống và cơ sở lai tạo khác nhau (Trại cá cảnh Sài Gòn, đại 
+lý cá Koi nhập khẩu, trại cá giống miền Tây...), mỗi lần nhập tôi phải ghi chép rõ ràng: nhập ngày
+nào, số lượng bao nhiêu con, đơn giá nhập, và của trại giống nào, để sau này còn biết liên hệ đặt 
+hàng tiếp khi cần.
+
+Hằng ngày cửa hàng và website đón khoảng 40–50 lượt khách, có khi khách mua lẻ 1–2 con Betta 
+để chơi hoặc vài con cá dọn bể, có khi khách mới setup hồ thủy sinh mua nguyên một bầy cá bơi 
+theo đàn, số lượng lên tới cả mấy chục con một lần. Mỗi lần bán, số lượng tồn của dòng cá đó 
+phải tự động giảm xuống ngay trên hệ thống, tôi không muốn nhân viên phải cầm vợt vớt và đếm
+lại bằng tay từng con trong hồ vào cuối ngày vì rất dễ nhầm lẫn và gây stress cho cá.
+
+Điều tôi lo nhất là tình trạng khách hỏi mua một dòng cá đang "hot" trên mạng mà cửa hàng lại 
+vừa hết hàng, mất khách vào tay tiệm khác. Vì vậy tôi cần website cảnh báo chủ động ngay khi số
+lượng tồn của một loại cá nào đó xuống dưới một mức nhất định (ví dụ dưới 10 con), để kịp thời 
+liên hệ trại giống nhập thêm về dưỡng trước khi bán hết sạch.
+
+Cuối mỗi tháng, tôi cần xem được dòng cá nào bán chạy nhất, loại cá nào mang lại doanh thu cao nhất,
+để quyết định đợt nhập hàng tiếp theo nên tập trung vào loại nào. Cửa hàng hiện có 2 bạn nhân viên 
+bán hàng, các bạn chỉ cần thao tác lên đơn bán cá và xem được số lượng tồn thực tế trong các hồ để 
+tư vấn cho khách, còn việc xem báo cáo doanh thu chi tiết hay chỉnh sửa giá bán thì chỉ mình
+tôi — chủ cửa hàng — mới được quyền thực hiện.
